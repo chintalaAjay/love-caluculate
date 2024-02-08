@@ -1,0 +1,18 @@
+body{
+   background-color: pink;
+}
+h1{
+    text-align: center;
+    color: red;
+   
+}
+p{
+    text-align: center;
+}
+#button{
+ 
+    background-color: red;
+}
+.button-container{
+    text-align: center;
+}
